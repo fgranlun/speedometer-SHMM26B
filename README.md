@@ -1,5 +1,5 @@
-# speedometer-SHMM26B - Svensk Hastighetsmätare m/26B
-En svensk hastighetsmätare utan annonser eller spårning och med inbyggd off-linedatabas för Sverige.
+#SHMM26B - Svensk Hastighetsmätare m/26B
+En svensk hastighetsmätare utan annonser eller spårning och med inbyggd offline-databas för Sverige.
 
 Alla aktuella hastighetsgränser på svenska vägar är hämtade från den senaste offentliga vägdatabasen (trafikverket.se).
 Värdena är bearbetade med ett Douglas-Peucker-filter för att göra datafilen så liten som möjligt, men mätpunktupplösningen borde
